@@ -79,7 +79,7 @@ span {
     background-color: #fff;
     border-radius: 0.625rem;
     padding: 1.875rem;
-    box-shadow: 0 0.313rem 0.625rem 0.313rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1.125rem 1.313rem 0 rgba(0, 0, 0, 0.1);
     overflow: hidden;
     position: relative;
 }
