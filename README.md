@@ -32,8 +32,8 @@ Mobile Screenshot <br />
 
 ### Links
 
-- Solution URL: [Github](https://github.com/adewalemudasiru/Blog-Preview-Card)
-- Live Site URL: [SolutionPreview](https://adewalemudasiru.github.io/Blog-Preview-Card/)
+- Solution URL: [Github](https://github.com/adewalemudasiru/Four-card-feature-section-solution)
+- Live Site URL: [SolutionPreview](https://adewalemudasiru.github.io/Four-card-feature-section-solution/)
 
 ## My process
 
