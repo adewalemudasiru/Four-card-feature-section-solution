@@ -9,7 +9,7 @@
     text-decoration: none;
 }
 
-body {
+html {
     font-family: 'Poppins', sans-serif;
     background-color: hsl(0, 0%, 98%);
 }
@@ -34,7 +34,6 @@ span {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    margin: 3.5rem auto 2.5rem;
 }
 
 .content-heading {
