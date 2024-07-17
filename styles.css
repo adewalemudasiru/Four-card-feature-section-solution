@@ -14,6 +14,10 @@ body {
     background-color: hsl(0, 0%, 98%);
 }
 
+h1, h2 {
+    color: hsl(234, 12%, 34%);
+}
+
 p {
     line-height: 1.6;  
     color: hsl(229, 6%, 66%);
@@ -30,17 +34,17 @@ span {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    margin: 3.5rem auto 2.5rem;
 }
 
 .content-heading {
     max-width: clamp(17.5rem, 50vw, 34rem);
     text-align: center;
-    color: hsl(234, 12%, 34%);
     margin-bottom: 3.75rem;
 }
 
 .content-heading h1 {
-    font-size: clamp(1.4rem, 2vw, 2rem);
+    font-size: clamp(1.4rem, 2vw, 2.5rem);
     margin-bottom: 1.25rem;
 }
 
@@ -82,7 +86,8 @@ span {
 }
 
 .card h2 {
-    font-size: clamp(1.125rem, 2vw, 1.5rem);
+    font-size: clamp(1.125rem, 2vw, 1.25rem);
+    font-weight: 600;
     margin-bottom: 1.063rem;
 }
 
