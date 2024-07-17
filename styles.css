@@ -9,7 +9,7 @@
     text-decoration: none;
 }
 
-html {
+body {
     font-family: 'Poppins', sans-serif;
     background-color: hsl(0, 0%, 98%);
 }
